@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Steganography Tool
 
 A professional desktop application for hiding and extracting secret messages in images using LSB steganography + XOR encryption.
@@ -20,3 +21,7 @@ A professional desktop application for hiding and extracting secret messages in 
 - Python 3.8+
 - PIL/Pillow (image processing)
 - tkinter (native GUI)
+=======
+# Stegnography
+Stegnography
+>>>>>>> b73a6e7b6674cfb91114817148c2b196405e7b96
